@@ -17,7 +17,7 @@ public class ExcepcionDivision extends JFrame implements ActionListener {
 	JButton check;
 	int numerador, denominador, division;
 	
-	
+	//Comentario de prueba
 	public ExcepcionDivision(){
 		super();
 		Container contenedor = getContentPane();

@@ -7,6 +7,8 @@ import java.math.*;
 import javax.swing.*;
 import java.io.*;
 
+
+//Comentario de prueba para gitHub
 public class RaizNum extends JFrame implements ActionListener {
 	private JLabel titulo, numero, resultado;
 	private JTextField txtnum, txtres;
@@ -30,6 +32,8 @@ public class RaizNum extends JFrame implements ActionListener {
 		setSize(500, 500);
 		setVisible(true);
 	}
+
+	//Comentario de prueba para gitHub
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

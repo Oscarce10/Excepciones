@@ -9,13 +9,15 @@ import javax.swing.*;
 import java.io.*;
 import javax.swing.JFrame;
 
+
+//Comentario de prueba
 public class ExcepcionDivision extends JFrame implements ActionListener {
 	JLabel texto, texto1;
 	JTextField numero, numero1, resultado;
 	JButton check;
 	int numerador, denominador, division;
 	
-	
+	//Comentario de prueba
 	public ExcepcionDivision(){
 		super();
 		Container contenedor = getContentPane();
